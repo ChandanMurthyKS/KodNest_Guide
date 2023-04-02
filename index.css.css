@@ -1,0 +1,244 @@
+
+h1{
+    border:5px solid rgb(255, 255, 0);
+    width: 14%;
+    margin-left: 40%;
+    margin-top:0%;
+    margin-right: 5%;
+    padding-left: 6%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    color: aqua;
+   animation-name:anima;
+   animation-duration: 60s;
+   position: relative;
+   background-color: rgba(0, 0, 0, 0.628);
+   border-radius: 15px;
+}
+@keyframes anima{
+0%{color:aqua;}
+1%{color:aqua;}  
+2%{color:aqua;}
+3%{color:aqua;}
+4%{color:aqua;}
+4%{color:aqua;}   
+5%{color:rgb(249, 61, 27)}
+6%{color:aqua;}
+7%{color:rgb(249, 61, 27)}
+8%{color:aqua;}
+9%{color:rgb(249, 61, 27)}
+10%{color:aqua;}
+11%{color:rgb(249, 61, 27)}
+12%{color:aqua;}
+13%{color:rgb(249, 61, 27)}
+14%{color:aqua;}
+15%{color:rgb(249, 61, 27)}
+16%{color:aqua;}
+17%{color:rgb(249, 61, 27)}
+18%{color:aqua;}
+19%{color:rgb(249, 61, 27)}
+20%{color:aqua;}
+21%{color:rgb(249, 61, 27)}
+22%{color:aqua;}
+23%{color:rgb(249, 61, 27)}
+24%{color:aqua;}
+25%{color:rgb(249, 61, 27)}
+26%{color:aqua;}
+27%{color:rgb(249, 61, 27)}
+28%{color:aqua;}
+29%{color:rgb(249, 61, 27)}
+30%{color:aqua;}
+31%{color:rgb(249, 61, 27)}
+32%{color:aqua;}
+33%{color:rgb(249, 61, 27)}
+34%{color:aqua;}
+35%{color:rgb(249, 61, 27)}
+36%{color:aqua;}
+37%{color:rgb(249, 61, 27)}
+38%{color:aqua;}
+39%{color:rgb(249, 61, 27)}
+40%{color:aqua;}
+41%{color:rgb(249, 61, 27)}
+42%{color:aqua;}
+43%{color:rgb(249, 61, 27)}
+44%{color:aqua;}
+45%{color:rgb(249, 61, 27)}
+46%{color:aqua;}
+47%{color:rgb(249, 61, 27)}
+48%{color:aqua;}
+49%{color:rgb(249, 61, 27)}
+51%{color:blue}
+52%{color:aqua;}
+53%{color:blue}
+54%{color:aqua;}
+55%{color:blue}
+56%{color:aqua;}
+57%{color:blue}
+58%{color:aqua;}
+59%{color:blue}
+60%{color:aqua;}
+61%{color:blue}
+62%{color:aqua;}
+63%{color:blue}
+64%{color:aqua;}
+65%{color:blue}
+66%{color:aqua;}
+67%{color:blue}
+68%{color:aqua;}
+69%{color:blue}
+70%{color:aqua;}
+71%{color:blue}
+72%{color:aqua;}
+73%{color:blue}
+74%{color:aqua;}
+75%{color:blue}
+76%{color:aqua;}
+77%{color:blue}
+78%{color:aqua;}
+79%{color:blue}
+80%{color:aqua;}
+81%{color:blue}
+82%{color:aqua;}
+83%{color:blue}
+84%{color:aqua;}
+85%{color:blue}
+86%{color:aqua;}
+87%{color:blue}
+88%{color:aqua;}
+89%{color:blue}
+90%{color:aqua;}
+91%{color:blue}
+92%{color:aqua;}
+93%{color:blue}
+94%{color:aqua;}
+95%{color:blue}
+96%{color:aqua;}
+97%{color:blue}
+98%{color:aqua;}
+99%{color:blue}
+100%{color:aqua;}
+101%{color:blue}
+}
+.c{
+    height: 5px;
+    width: 130px;
+   margin-top: -3%;
+    background-attachment: white;
+   animation-duration: 4s;
+   animation-name: ani;
+   position: relative;
+    
+}
+@keyframes ani{
+    0%{ background-color: red;left:-200px;top:1000%}
+    45%{background-color: rgb(225, 11, 11);left:-200px;top:1000%}
+    47%{background-color: rgb(225, 11, 11);left:-200px;top:1000%}
+    49%{background-color: rgb(225, 11, 11);left:-200px;top:1000%}
+    51%{background-color: rgb(225, 11, 11);left:-200px;top:1000%}
+    53%{background-color: rgb(225, 11, 11);left:-200px;top:1000%}
+    55%{background-color: rgb(225, 11, 11);left:-200px;top:1000%}
+    57%{background-color: rgb(225, 11, 11);left:-200px;top:1000%}
+    59%{background-color: rgb(225, 11, 11);left:700px;top:1000%}
+    61%{background-color: rgb(225, 11, 11);left:700px;top:1000%}
+    63%{background-color: rgb(225, 11, 11);left:700px;top:1000%}
+    65%{background-color: rgb(225, 11, 11);left:700px;top:1000%}
+    67%{background-color: rgb(225, 11, 11);left:700px;top:1000%}
+    69%{background-color: rgb(225, 11, 11);left:600px;top:1000%}
+    71%{background-color: rgb(225, 11, 11);left:710px;top:1000%}
+    73%{background-color: rgb(225, 11, 11);left:600px;top:1000%}
+    75%{background-color: rgb(225, 11, 11);left:710px;top:1000%}
+    77%{background-color: rgb(225, 11, 11);left:600px;top:1000%}
+    79%{background-color: rgb(225, 11, 11);left:710px;top:1000%}
+    81%{background-color: rgb(225, 11, 11);left:600px;top:1000%}
+    83%{background-color: rgb(225, 11, 11);left:710px;top:1000%}
+    85%{background-color: rgb(225, 11, 11);left:710px;top:1000%}
+
+    100%{background-color:aliceblue;left:1700px;top:1000px} 
+}
+
+.a{
+   animation-name: ab;
+   animation-duration: 5s;
+   position: relative;
+   margin-top: 50%;
+   margin-left: 15%;
+   text-align: center;
+   text-shadow: 2px 2px  yellow;
+  
+}
+@keyframes ab{
+     0%{margin-left: -20%;}
+     10%{margin-left:-20%;}
+     20%{margin-left:-20%}
+     30%{margin-left: 45%;}
+     40%{margin-left: 35%}
+     100%{margin-left:37%;}
+}
+.b{
+   animation-name: ba;
+   animation-duration: 5s;
+   position: relative;
+   margin-top: 50%;
+   margin-right:5;
+   text-shadow: 3px 3px black ;
+}
+@keyframes ba{
+    0%{margin-left:40%;}
+    5%{margin-left: 40%;}
+     10%{margin-left:40%;}
+     20%{margin-left:40%;}
+     20.3%{margin-left:20%;}
+     20.4%{margin-left:19%;}
+     20.5%{margin-left:18%;}
+     20.6%{margin-left:17%;}
+     20.7%{margin-left:16;}
+     20.8%{margin-left:16%;}
+     20.9%{margin-left:10%;}
+     30%{margin-left:19%;}
+     60%{margin-left: -15%;}
+     100%{margin-left:0%;}
+}
+
+.f{
+animation-name: field;
+animation-duration: 2s;
+position:relative;
+margin-top:6%;
+box-shadow: 10px 10px 10px;
+
+}
+@keyframes field{
+   70%{margin-right:15%;margin-left: 15%;}
+    100%{margin-right:25%;margin-left:25%;}
+}
+a{
+    color:rgb(163, 244, 70);
+    font-size: 20px;
+    text-decoration: none;
+    font-family:'Gill Sans';
+    text-shadow: 2px 2px 10px black;
+    
+    
+}
+a:hover{
+    color:aliceblue;
+}
+.name{
+    list-style-type: none;
+}
+.submit{
+    width:100px;
+    height:30px;
+    box-shadow: black 2px 2px 2px;
+    background-color: yellow;
+    font-size: large;
+    font-weight: bold;
+
+}
+.submit:hover{
+    background-color: white;
+    cursor: pointer;
+}
+
+
+
